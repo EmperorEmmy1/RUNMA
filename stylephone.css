@@ -1,0 +1,1370 @@
+/* Runam */
+
+#headcontainer{
+    
+    /* Rectangle 366 */
+
+position: absolute;
+width: 100%;
+height: 690px;
+left: 0px;
+top: 0px;
+
+background: #5C0404;
+
+}
+#head{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    left: 40px;
+    width: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+}
+
+#logo{
+
+font-weight: 700;
+font-size: 20px;
+line-height: 121.19%;
+color: #FFFFFF;
+
+}
+
+#headtext{
+
+    position: absolute;
+    top: 10px;
+    left: 40px;
+    width: 150px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    display: none;
+    }
+
+    .pro{
+        padding: 20px;
+    }
+.dropbtn {
+  background-color: inherit;
+  color: white;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  left: -10px;
+  top: px;
+}
+
+.dropdown {
+  position: absolute;
+  display: inline-block;
+  top: 0px;
+  left: 280px;
+  z-index: 999;
+}
+hr{
+    width: 30px;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: #5C0404;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: #FFFFFF;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #A66606;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #A66606;}
+#maintext{
+    /* A Digital Playground For Everyone */
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    left: 40px;
+    top: 60px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 20px;
+    line-height: 137.19%;
+    /* or 82px */
+
+    color: #FFFFFF;
+}
+#text{
+    /* Runam creates a social connection between business owners, artistes and influencers while also offering bills payments and event ticketing. */
+
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    left: 40px;
+    top: 100px;
+    text-align: left;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 137.19%;
+    /* or 38px */
+
+    color: #FFFFFF;
+}
+#mainimg{
+    /* image 229 */
+position: absolute;
+width: 300px;
+height: 450px;
+left: 40px;
+top: 180px;
+background: url(image.png);
+
+}
+#apple{
+    /* Group 52 */
+position: absolute;
+width: 120px !important;
+height: 70px;
+left: 40px;
+top: 150px;
+
+}
+#appletext{
+    /* Download on apple store */
+position: absolute;
+width: 70px;
+height: 42px;
+left: 70px;
+top: 180px;
+text-align: justify;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 21px;
+
+color: #000000;
+
+}
+
+#google{
+    /* Group 51 */
+position: absolute;
+width: 120px;
+height: 5056px;
+left: 200px;
+top: -943.2px;
+z-index: 1;
+
+}
+#insidetext{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 21px;
+    color: rgba(0, 0, 0, 0.25);
+}
+#tic{/* Ticketing */
+    display: none;
+    position: absolute;
+    left: 50px;
+    top: 200px;
+    
+    }
+#bus{/* Businesses */
+
+    position: absolute;
+    left: 50px;
+    top: 350px;
+    
+    }
+#bills{/* Bills */
+
+        position: absolute;
+        left: 65px;
+        top: 450px;
+        
+        }
+ #runam{/* Runam */
+
+            position: absolute;
+            left: 160px;
+            top: 380px;
+            
+            }
+#inf{/* Influencers */
+
+            position: absolute;
+            width: 91px;
+            height: 21px;
+            left: 250px;
+            top: 370px;
+            
+            }
+#art{/* artists */
+
+            position: absolute;
+            width: 52px;
+            height: 21px;
+            left: 230px;
+            top: 280px;
+            }
+#cam{/* campaigns */
+
+            position: absolute;
+            width: 89px;
+            height: 21px;
+            left: 220px;
+            top: 480px;
+           
+            }
+#shape{/* Ellipse 125 */
+
+        position: absolute;
+        width: 70px;
+        height: 70px;
+        left: 280px;
+        top: 240px;
+        border-radius: 200px;
+        background: linear-gradient(180deg, #7A2E2E 0%, rgba(124, 1, 1, 0) 100%);
+        }
+#shape1{/* Ellipse 124 */
+
+        position: absolute;
+        width: 70px;
+        height: 70px;
+        left: 5px;
+        top: 510px;
+        border-radius: 200px;
+        background: linear-gradient(180deg, #7A2E2E 0%, rgba(124, 1, 1, 0) 100%);
+        }
+#facetwo{/* Rectangle 365 */
+
+        position: absolute;
+        width: 100%;
+        height: 480px;
+        left: 0px;
+        top: 690px;
+        
+        background: #FDF9F9;
+        }
+#lovw{
+        /* image 92 */
+
+        position: absolute;
+        width: 330px;
+        height: 250px;
+        left: 40px;
+        top: 165px;
+
+        background: url(image.png);
+        border-radius: 50px;
+
+    }
+
+#texttwo{
+        
+        font-family: 'Merriweather';
+        font-style: normal;
+    }
+    
+#creating{/* Creating a social presence for every business */
+
+        position: absolute;
+        width: 320px;
+        height: 20px;
+        left: 40px;
+        top: 30px;
+        font-weight: 900;
+        font-size: 16.5px;
+        line-height: 137.19%;
+        /* or 55px */
+        
+        color: #D0830F;
+        
+        }
+   
+#provide{/* we provide targeted social media presence, social media boost, music and product advertisement through influencers, promote anything and everything through our pool of influencers. */
+
+        position: absolute;
+        width: 325px;
+        height: 77px;
+        left: 40px;
+        top: 60px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 137.19%;
+        /* or 34px */
+        
+        color: #000000;
+        
+        }
+#stepthree{/* Rectangle 354 */
+
+        position: absolute;
+        width: 100%;
+        height: 1050px;
+        left: 0px;
+        top: 1162px;
+        
+        background: #532929;
+        }
+#phone{/* Frame 72 */
+
+        position: absolute;
+        width: 360px;
+        height: 360px;
+        left: 20px;
+        top: 640px;
+        
+        background: #F9EDED;
+        border-radius: 500px;
+    }
+
+#billsn{/* Bills payment */
+
+        position: absolute;
+        left: 40px;
+        top: 20px;
+        font-family: 'Merriweather';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 18px;
+        line-height: 137.19%;
+        /* identical to box height, or 55px */
+        
+        color: #FFFFFF;
+        
+        }
+   
+#Airtime1{
+   /* Airtime purchase. */
+
+    position: absolute;
+    left: 40px;
+    top: 70px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 137.19%;
+    /* or 27px */
+
+    color: #FFFFFF;
+
+}
+#Airtime{
+    /* Stay connected effortlessly with our seamless airtime purchase experience Recharge your mobile balance instantly and conveniently through our user-friendly platform. */
+
+    position: absolute;
+    width: 330px;
+    height: 80px;
+    left: 40px;
+    top: 100px;
+
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 137.19%;
+    /* or 34px */
+
+    color: #FFFFFF;
+
+    }
+#Electricity{
+    /* Electricity */
+
+    position: absolute;
+    left: 40px;
+    top: 200px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 137.19%;
+    /* or 27px */
+
+    color: #FFFFFF;
+
+}
+
+#Electricity1{/* Experience uninterrupted convenience with our Power Subscription service. Say goodbye to downtime and hello to constant energy flow. Enjoy seamless access to power,with reliable support. */
+
+    position: absolute;
+    width: 330px;
+    height: 80px;
+    left: 40px;
+    top: 230px;
+    text-align: justify;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 137.19%;
+    /* or 34px */
+    
+    color: #FFFFFF;
+    
+    }
+#Data{/* Data */
+
+    position: absolute;
+    
+    left: 40px;
+    top: 340px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 137.19%;
+    /* or 27px */
+    
+    color: #FFFFFF;
+    
+    }
+
+#Data1{/* Stay connected on the go with lightning-fast mobile data! Stream, browse, and share seamlessly with our affordable-data plans. Experience the freedom of reliable connectivity in your pocket. */
+
+    position: absolute;
+    width: 330px;
+    height: 80px;
+    left: 40px;
+    top: 370px;
+    text-align: justify;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 137.19%;
+    /* or 34px */
+    
+    color: #FFFFFF;
+    
+    }
+
+#Cable{/* Cable and Internet Tv */
+
+    position: absolute;
+    left: 40px;
+    top: 480px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 137.19%;
+    /* or 27px */
+    
+    color: #FFFFFF;
+    
+    }
+
+#Cable1{/* Stay connected on the go with lightning-fast mobile data! Stream, browse, and share seamlessly with our affordable-data plans. Experience the freedom of reliable connectivity in your pocket. */
+
+    position: absolute;
+    width: 330px;
+    height: 80px;
+    left: 40px;
+    top: 515px;
+    text-align: justify;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 137.19%;
+    /* or 34px */
+    
+    color: #FFFFFF;
+    
+    }
+#ourpartners{/* Our partners */
+
+    position: absolute;
+    width: 110px;
+    height: 25px;
+    left: 150px;
+    top: 1080px;
+    
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 137.19%;
+    /* identical to box height, or 55px */
+    
+    color: #6A0D0D;
+    
+    }
+#partners{/* Rectangle 353 */
+
+    position: absolute;
+    width: 100%;
+    height: 207px;
+    left: 0px;
+    top: 2300px;
+    
+    background: #FEFCFC;
+    }
+#a{/* ikeja */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 40px;
+    top: 15px;
+    
+    border-radius: 50px;
+    }
+#b{/* eko */
+
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 100px;
+    top: 15px;
+    
+    border: 2px solid #000000;
+    border-radius: 50px;
+    }
+#cd{/* abuja */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 100px;
+    top: 15px;
+    border-radius: 50px;
+    display: none;
+    
+    }
+#d{/* ibadan */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 160px;
+    top: 15px;
+    border-radius: 50px;
+    }
+#e{/* kaduna */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 220px;
+    top: 15px;
+    border-radius: 50px;
+    
+    }
+#f{/* image 239 */
+
+    position: absolute;
+    left: 280px;
+    top: 15px;
+    bottom: 59.88%;
+    width: 40px;
+    height: 40px;
+    background: url(image.png);
+    border-radius: 50px;
+    }
+#g{/* jos */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 340px;
+    top: 15px;
+    border-radius: 50px;
+    }
+#h{/* kano */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 40px;
+    top: 80px;
+    border-radius: 50px;
+    
+    }
+#i{/* gotv */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 100px;
+    top: 80px;
+    border-radius: 50px;
+    
+    }
+#j{/* startimes */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 160px;
+    top: 80px;
+    border-radius: 50px;
+    
+    }
+#k{/* image 100 */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 220px;
+    top: 80px;
+    
+    background: url(image);
+    border-radius: 360px;
+    }
+#l{/* image 222 */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 280px;
+    top: 80px;
+    background: url(image);
+    border-radius: 242.5px;
+    }
+#m{/* image 223 */
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 340px;
+    top: 80px;
+    
+    background: url(image);
+    border-radius: 147.5px;
+    }
+#n{/* image 224 */
+
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 10px;
+    top: 150px;
+    display: none;
+    background: url(image);
+    border-radius: 600px;
+    }
+#o{/* image 234 */
+
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    left: 160px;
+    top: 150px;
+    
+    background: url(image.png);
+    border-radius: 109.5px;
+    }
+#p{/* image 231 */
+
+    position: absolute;
+    width: 60px;
+    height: 44px;
+    left: 90px;
+    top: 150px;
+    background: url(image);
+    border-radius: 60%;
+    }
+#q{/* image 232 */
+
+    position: absolute;
+    width: 80px;
+    height: 44px;
+    left: 220px;
+    top: 150px;
+    border-radius: 60%;
+    background: url(image);
+    }
+#r{/* image 233 */
+
+    position: absolute;
+    width: 70px;
+    height: 44px;
+    left: 20px;
+    top: 150px;
+    
+    background: url(image);
+    border-radius: 60%;
+    }
+#s{/* image 236 */
+
+    position: absolute;
+    width: 80px;
+    height: 50px;
+    left: 200px;
+    display: none;
+    top: 150px;
+    border-radius: 40%;
+    background: url(image);
+    background-color: #FFFFFF
+    }
+#t{/* image 230 */
+
+    position: absolute;
+    width: 90px;
+    height: 44px;
+    left: 300px;
+    top: 150px;
+    
+    background: url(image);
+    border-radius: 60%;
+    }
+#account{
+    width: 100%;
+}
+#dig{/* Digitized Events ticking */
+
+    position: absolute;
+    width: 285px;
+    height: 55px;
+    left: 40px;
+    top: 3855px;
+    display: none;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 137.19%;
+    /* identical to box height, or 55px */
+
+    color: #6A0D0D;
+
+}
+#dig1{/* Digitized Events ticking */
+
+    position: absolute;
+    width: 220px;
+    height: 35px;
+    left: 40px;
+    top: 3895px;
+    display: inline;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 137.19%;
+    /* identical to box height, or 55px */
+
+    color: #6A0D0D;
+
+}
+#acctext{/* Our merchant web account is an online portal specifically designed for Merchants to manage their financial transactions and payments securely. It offers businesses the ability to offer various forms of electronic bills payments, including credit cards and digital wallets, streamlining the sales process. These accounts also provide reporting and analytics tools, helping merchants track sales trends and manage their finances more effectively. */
+
+    position: absolute;
+    width: 320px;
+    height: 350px;
+    left: 40px;
+    top: 3927px;
+    text-align: justify;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 137.19%;
+    /* or 36px */
+    
+    color: #000000;
+    display: block;
+    }
+.acctext{
+    display: none !important;
+}
+#accp{/* Component 108 */
+
+    position: absolute;
+    width: 320px;
+    height: 300px;
+    left: 40px;
+    top: 3551px;
+    display: block;
+    }
+.accp{
+    
+}
+.why{  /* Why Runam? */
+    position: absolute;
+    width: 100%;
+    height: 687px;
+    left: 0px;
+    top: 2910px;
+    
+    background: #FFFFFF;
+}
+#why{/* Why Runam? */
+
+    position: absolute;
+    width: 128px;
+    height: 35px;
+    left: 170px;
+    top: 70px;
+    
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 137.19%;
+    /* identical to box height, or 55px */
+    
+    color: #EC883F;
+    
+    }
+.secured{/* Ellipse 123 */
+
+        position: absolute;
+        width: 280px;
+        height: 150px;
+        left: 60px;
+        top: 150px;
+        border-radius: 45%;
+        border-bottom-left-radius: 70%;
+        border-bottom-right-radius: 70%;
+        background: #FDF9F9;
+        }
+#secured{/* Secured */
+
+        position: absolute;
+        left: 100px;
+        font-family: 'Merriweather';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 18px;
+        line-height: 137.19%;
+        top: -20px;
+        /* or 41px */
+        
+        color: #000000;
+        
+        }
+#securedtext{/* A secured web platform ensures the utmost protection for your online activities, offering peace of mind in the digital realm. */
+
+    position: absolute;
+    width: 204px;
+    height: 100px;
+    left: 40px;
+    
+    top: 20px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 120%;
+    /* or 36px */
+    
+    color: #000000;
+    
+    }
+.Reliable{/* Ellipse 122 */
+
+    position: absolute;
+    width: 280px;
+    height: 150px;
+    left: 60px;
+    top: 325px;
+    border-radius: 45%;
+    border-bottom-left-radius: 70%;
+    border-bottom-right-radius: 70%;
+    background: #FDF9F9;
+    
+
+}
+#Reliable{
+    /* Reliable */
+
+    position: absolute;
+    left: 100px;
+    top: -20px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 137.19%;
+    /* or 41px */
+
+    color: #000000;
+
+
+}
+#Reliabletext{
+    /* Our platform is reliable and delivers consistent performance and dependable service, fostering trust and satisfaction among users. */
+
+    position: absolute;
+    width: 204px;
+    height: 100px;
+    left: 40px;
+    top: 20px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 137.19%;
+    /* or 36px */
+
+    color: #000000;
+
+
+}
+.Fast{
+    position: absolute;
+    width: 280px;
+    height: 150px;
+    left: 60px;
+    top: 500px;
+    border-radius: 45%;
+    border-bottom-left-radius: 70%;
+    border-bottom-right-radius: 70%;
+    background: #FDF9F9;
+    }
+#Fast{/* Fast and efficient */
+
+    position: absolute;
+    
+    left: 70px;
+    top: -20px;
+    
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 137.19%;
+    /* or 41px */
+    
+    color: #000000;
+    
+    }
+#Fasttext{/* A fast and efficient web platform accelerates online experiences, saving valuable time and enhancing productivity for users. */
+
+    position: absolute;
+    width: 204px;
+    height: 100px;
+    left: 40px;
+    top: 20px;
+    text-align: center;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 137.19%;
+    /* or 36px */
+    
+    color: #000000;
+    
+    }
+#Digitized{/* Rectangle 367 */
+
+    position: absolute;
+    width: 100%;
+    height: 700px;
+    left: 0px;
+    top: 2210px;
+    
+    background: #D9D9D9;
+    }
+#Digitized1{/* Digitized Events ticking */
+
+    position: absolute;
+    width: 185px;
+    height: 35px;
+    left: 40px;
+    top: 40px;
+    
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 137.19%;
+    /* identical to box height, or 55px */
+    
+    color: #6A0D0D;
+    
+    }
+#Digitizedtext{/* An event ticketing service is a convenient and user-friendly platform that allows individuals to purchase tickets for various events, from concerts and sports games to theater productions and festivals. It simplifies the ticket-buying process, often offering digital ticket options, seat selection, and real-time event information, ensuring a seamless and enjoyable experience for event-goers. With secure payment processing, it provides a reliable way for both organizers and attendees to manage and access event tickets. */
+
+    position: absolute;
+    width: 323px;
+    height: 220px;
+    left: 40px;
+    top: 80px;
+    text-align: justify;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 137.19%;
+    /* or 36px */
+    
+    color: #000000;
+    
+    }
+#ppx{display: none;}
+#ppp{display: inline;}
+#tick{/* Frame 92 */
+
+    position: absolute;
+    width: 320px;
+    height: 300px;
+    left: 40px;
+    top: 330px;
+    z-index: 1;
+    
+    
+    }
+#newbnt{/* Rectangle 45 */
+    display: none;
+    position: absolute;
+    left: 182px;
+    top: 580px;
+    display: none;
+    background: #F6E0DB;
+    border-radius: 50px;
+    }
+#newtext{  
+    /* Download on apple store */
+
+    position: absolute;
+    width: 110px;
+    height: 42px;
+    left: 260px;
+    top: 600px;
+    display: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+
+}
+#Contact{/* image 237 */
+
+        position: absolute;
+        width: 100%;
+        height: 100px;
+        left: 0px;
+        top: 4380px;
+        color: #FFFFFF;
+        
+    }
+#Contactus{
+    /* Contact us */
+
+position: absolute;
+width: 213px;
+height: 55px;
+left: 150px;
+top: 80px;
+z-index: 1;
+font-family: 'Merriweather';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 137.19%;
+/* identical to box height, or 55px */
+display: none;
+color: #EC883F;
+
+}
+#contactpic{/* image 237 */
+
+    position: absolute;
+    width: 100%;
+    height: 350px;
+    left: 0px;
+    top: 200px;
+    
+    background: url(image.png);
+    }
+    #contactbox{/* image 237 */
+
+       /* Rectangle 377 */
+
+    position: absolute;
+    width: 90%;
+    height: 160px;
+    left: 20px;
+    top: 260px;
+
+    background: #3C2323;
+
+        }
+#number{/* Component 110 */
+
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 300px;
+    top: 50px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    }
+#phonen{/* Vector */
+
+    /* Vector */
+
+    position: absolute;
+    left: 30.08%;
+    right: 30.08%;
+    top: 30.33%;
+    bottom: 29.51%;
+    width: 20px !important; 
+    height: 20px !important;
+    }
+.phon1{ 
+        display: none ;
+    }
+#phon1{
+    display: inline !important;
+}
+#number1{/* +234 70 62466 015 */
+
+    position: absolute;
+    width: 80px;
+    height: 36px;
+    left: 280px;
+    top: 80px;
+    /* +234 706 2466 015 */
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 137.19%;
+    /* identical to box height, or 11px */
+
+    color: #FFFFFF;
+
+    }
+#email{/* Component 111 */
+    
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 170px;
+    top: 50px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    }
+#email1{/* info@runamapp.com */
+
+    position: absolute;
+    width: 40px;
+    height: 36px;
+    left: 160px;
+    top: 80px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 137.19%;
+    /* identical to box height, or 36px */
+    
+    color: #FFFFFF;
+    
+    }
+#em{
+    /* evaEmailOutline1 */
+
+position: absolute;
+left: 25.92%;
+right: 25.93%;
+top: 33.73%;
+bottom: 36.6%;
+
+
+}
+#address{/* Component 112 */
+
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 50px;
+    top: 50px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    }
+#add{
+    position: absolute;
+    left: 30.08%;
+    right: 30.08%;
+    top: 30.33%;
+    bottom: 29.51%;
+}
+#address1{/* 15 Reality avenue, crown estate, lekki peninsula, lagos state. */
+
+    position: absolute;
+    width: 102px;
+    height: 40px;
+    left: 30px;
+    top: 80px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 137.19%;
+    /* or 30px */
+    
+    color: #FFFFFF;
+    
+    }
+#footer{/* Rectangle 364 */
+
+    position: absolute;
+    width: 100%;
+    height: 250px;
+    left: 0px;
+    top: 4920px;
+    
+    background: #5C0404;
+    }
+#footter{/* Rectangle 339 */
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 400px;
+    left: 0px;
+    top: 0%;
+    border-radius:0px 0px 0px 0px ;
+    background: #5C0404;
+    }
+#phonefotter{
+    display: block;
+}
+#fftext{
+    /* Runam and Runup technologies limited® */
+
+position: absolute;
+width: 273px;
+height: 21px;
+left: 65px;
+top: 25px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 137.19%;
+/* identical to box height, or 21px */
+
+color: #FFFFFF;
+
+}
+#was{/* We are social: */
+
+    position: absolute;
+    width: 120px;
+    height: 16px;
+    left: 82.4px;
+    top: 80px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    
+    }
+#ins{/* image 229 */
+    width: 20px;
+    height: inherit;
+    position: absolute;
+    left: 170px;
+    right: 52.35%;
+    top: 90px;
+    bottom: 1.6%;
+    
+    background: url(image.png);
+    }
+#tw2{/* image 229 */
+    width: 20px;
+    height: inherit;
+    position: absolute;
+    left: 230px;
+    right: 52.35%;
+    top: 90px;
+    bottom: 1.6%;
+        
+    background: url(image.png);
+        }
+#tw1{/* image 229 */
+    width: 20px;
+    height: inherit;
+    position: absolute;
+    left: 260px;
+    right: 52.35%;
+    top: 90px;
+    bottom: 1.6%;
+            
+    background: url(image.png);
+    }
+#you{/* image 229 */
+    width: 20px;
+    height: inherit;
+    position: absolute;
+    left: 200px;
+    right: 52.35%;
+    top: 90px;
+    bottom: 1.6%;
+    
+    background: url(image.png);
+    }
+#tk{/* image 229 */
+    width: 20px;
+    height: inherit;
+    position: absolute;
+    left: 290px;
+    right: 52.35%;
+    top: 90px;
+    bottom: 1.6%;
+    
+    background: url(image.png);
+    }
+
+#cr2{/* Copyright 2023 Runam and Runup technologies */
+
+    position: absolute;
+    width: 254px;
+    height: 16px;
+    left: 88.3px;
+    top: 150px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 137.19%;
+    /* or 16px */
+    
+    color: #FFFFFF;
+    
+    }
